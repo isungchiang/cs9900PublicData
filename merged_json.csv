@@ -1,13 +1,13 @@
 code	json
-SNE	{'marks': {'2018-05-09': {'labels': {'rsi': {'labels': 0, 'content': 'RSI is decreasing'}, 'news': {}}, 'mark': 4.0}}, 'code': 'SNE', 'last_refresh_date': '2018-05-09'}
-FB	{'marks': {'2018-05-09': {'labels': {'rsi': {'labels': 1, 'content': 'RSI is increasing'}, 'news': {'labels': 1, 'content': 'good news mark'}}, 'mark': 6.8}}, 'code': 'FB', 'last_refresh_date': '2018-05-09'}
-GOOG	{'marks': {'2018-05-09': {'labels': {'news': {}}, 'mark': 5.2}}, 'code': 'GOOG', 'last_refresh_date': '2018-05-09'}
-ORCL	{'marks': {'2018-05-09': {'labels': {'news': {}}, 'mark': 5.0}}, 'code': 'ORCL', 'last_refresh_date': '2018-05-09'}
-AMZN	{'marks': {'2018-05-09': {'labels': {'news': {'labels': 1, 'content': 'good news mark'}}, 'mark': 5.2}}, 'code': 'AMZN', 'last_refresh_date': '2018-05-09'}
-TCEHY	{'marks': {'2018-05-09': {'labels': {'rsi': {'labels': 1, 'content': 'RSI is increasing'}, 'news': {}}, 'mark': 6.0}}, 'code': 'TCEHY', 'last_refresh_date': '2018-05-09'}
-AAPL	{'marks': {'2018-05-09': {'labels': {'rsi': {'labels': 1, 'content': 'RSI is increasing'}, 'news': {'labels': 1, 'content': 'good news mark'}}, 'mark': 6.8}}, 'code': 'AAPL', 'last_refresh_date': '2018-05-09'}
-JNJ	{'marks': {'2018-05-09': {'labels': {'bolling_bands': {'labels': 0, 'content': 'at decling tunnel!'}, 'news': {}}, 'mark': 3.0}}, 'code': 'JNJ', 'last_refresh_date': '2018-05-09'}
-GOOGL	{'marks': {'2018-05-09': {'labels': {'news': {'labels': 1, 'content': 'good news mark'}}, 'mark': 5.2}}, 'code': 'GOOGL', 'last_refresh_date': '2018-05-09'}
-MSFT	{'marks': {'2018-05-09': {'labels': {'news': {'labels': 1, 'content': 'good news mark'}}, 'mark': 5.2}}, 'code': 'MSFT', 'last_refresh_date': '2018-05-09'}
-JPM	{'marks': {'2018-05-09': {'labels': {'rsi': {'labels': 1, 'content': 'RSI is increasing'}, 'news': {'labels': 1, 'content': 'good news mark'}}, 'mark': 6.8}}, 'code': 'JPM', 'last_refresh_date': '2018-05-09'}
-BABA	{'marks': {'2018-05-09': {'labels': {'news': {'labels': 1, 'content': 'good news mark'}}, 'mark': 5.2}}, 'code': 'BABA', 'last_refresh_date': '2018-05-09'}
+SNE	{'last_refresh_date': '2018-05-14', 'code': 'SNE', 'marks': {'2018-05-14': {'mark': 6.6, 'labels': {'news': {}, 'rsi': {'content': 'RSI is increasing', 'labels': 1}}}}}
+FB	{'last_refresh_date': '2018-05-14', 'code': 'FB', 'marks': {'2018-05-14': {'mark': 5.2, 'labels': {'news': {'content': 'good news mark', 'labels': 1}}}}}
+GOOG	{'last_refresh_date': '2018-05-14', 'code': 'GOOG', 'marks': {'2018-05-14': {'mark': 6.8, 'labels': {'news': {'content': 'good news mark', 'labels': 1}, 'rsi': {'content': 'RSI is increasing', 'labels': 1}}}}}
+ORCL	{'last_refresh_date': '2018-05-14', 'code': 'ORCL', 'marks': {'2018-05-14': {'mark': 5.2, 'labels': {'news': {'content': 'good news mark', 'labels': 1}}}}}
+AMZN	{'last_refresh_date': '2018-05-14', 'code': 'AMZN', 'marks': {'2018-05-14': {'mark': 5.6000000000000005, 'labels': {'bolling_bands': {'content': 'at raising tunnel!', 'labels': 1}, 'news': {'content': 'good news mark', 'labels': 1}, 'rsi': {'content': 'RSI is decreasing', 'labels': 0}}}}}
+TCEHY	{'last_refresh_date': '2018-05-14', 'code': 'TCEHY', 'marks': {'2018-05-14': {'mark': 4.2, 'labels': {'news': {}, 'rsi': {'content': 'RSI is decreasing', 'labels': 0}}}}}
+AAPL	{'last_refresh_date': '2018-05-14', 'code': 'AAPL', 'marks': {'2018-05-14': {'mark': 5.6000000000000005, 'labels': {'bolling_bands': {'content': 'at raising tunnel!', 'labels': 1}, 'news': {'content': 'good news mark', 'labels': 1}, 'rsi': {'content': 'RSI is decreasing', 'labels': 0}}}}}
+JNJ	{'last_refresh_date': '2018-05-14', 'code': 'JNJ', 'marks': {'2018-05-14': {'mark': 5.0, 'labels': {'news': {'content': 'good news mark', 'labels': 1}}}}}
+GOOGL	{'last_refresh_date': '2018-05-14', 'code': 'GOOGL', 'marks': {'2018-05-14': {'mark': 5.2, 'labels': {'news': {'content': 'good news mark', 'labels': 1}}}}}
+MSFT	{'last_refresh_date': '2018-05-14', 'code': 'MSFT', 'marks': {'2018-05-14': {'mark': 5.2, 'labels': {'news': {'content': 'good news mark', 'labels': 1}}}}}
+JPM	{'last_refresh_date': '2018-05-14', 'code': 'JPM', 'marks': {'2018-05-14': {'mark': 5.2, 'labels': {'news': {'content': 'good news mark', 'labels': 1}}}}}
+BABA	{'last_refresh_date': '2018-05-14', 'code': 'BABA', 'marks': {'2018-05-14': {'mark': 5.2, 'labels': {'news': {}}}}}
